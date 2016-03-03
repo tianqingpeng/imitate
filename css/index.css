@@ -1,0 +1,48 @@
+.main_l{ margin-left:19px;_margin-left:9px; width:520px; float:left;}
+.main_r{ margin-right:19px;_margin-right:9px; width:320px; float:right; margin-bottom:0px; background-color:#cfd8e9;margin-bottom:-18px\9;}
+
+.title_Ch{ font-size:17px; color:#315476; margin-left:10px; font-weight:bold; font-family:"微软雅黑" ,"宋体";}
+.title_En{ font-size:14px; color:#666666; margin-left:10px; font-weight:bold; font-family:Verdana, Arial, Helvetica, sans-serif;}
+.main_l_content{ margin-top:10px;}
+.gs{ width:500px; margin-left:10px; padding-right:0px; }
+
+.gs_l{ width:120px; height:180px;}
+.gs_r{ line-height:22px; color:#333333; padding-right:0px; font-size:13px; width:380px;}
+.gs_r strong{ color:#06305a; font-size:14px;}
+
+
+
+
+.main_l_title{ line-height:34px; vertical-align:middle;height:34px; width:518px; background-image:url(../images/main_l_titile.gif); background-repeat:repeat-x;}
+
+.cp a{ color:#101f37; text-decoration:none; }
+
+
+
+.main_r_title{ margin:20px auto auto 15px; width:280px;padding-bottom:3px; border-bottom:3px solid #bdc5d8}
+.mian_r_content{ margin:20px auto auto 15px; width:300px; line-height:17px;}
+.mian_r_content strong{ color:#4c87bf; text-decoration:underline; font-weight:lighter; font-size:12px;}
+.news_index{ line-height:20px;color:#3d4655; }
+.news_index a{ text-decoration:none; color:#4479af}
+.news_gd{ margin-top:-10px;}
+
+.more a{ color:#4479af;}
+.more{ margin-bottom:0px;color:#4479af}
+
+
+
+#scrollDiv{width:272px;height:122px;min-height:25px;line-height:25px;border:#ccc 1px solid; padding-right:8px;overflow:hidden; margin-bottom:8px; padding-bottom:7px;}
+.scroll_title{height:25px;padding-left:10px; margin-top:4px;}    
+.scroll_title a{ color:#315476; text-decoration:none; font-weight:bold; font-size:14px;}
+
+.scroll_content{height:85px; line-height:20px;padding-left:10px; padding-bottom:6px;}
+
+
+
+.footer{ width:100%; padding-bottom:0px; overflow:hidden; text-align:center; background-image:url(../images/foot.gif); background-repeat:repeat-x;}
+.footer div{ margin-top:40px;margin-top:84px\9;color:#333333; line-height:18px;}
+
+
+
+
+
